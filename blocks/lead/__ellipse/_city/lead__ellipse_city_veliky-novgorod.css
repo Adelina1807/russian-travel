@@ -1,0 +1,31 @@
+.lead__ellipse_city_veliky-novgorod {
+  background-image: url(../../../../images/Ellipse-veliky-novgorod.png);
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_veliky-novgorod {
+    top: 40.69px;
+    left: 39.92px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_veliky-novgorod {
+    top: 97.66px;
+    left: 95.81px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_veliky-novgorod {
+    top: 118px;
+    left: 115.77px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_veliky-novgorod {
+    top: 125.12px;
+    left: 122.76px;
+  }
+}

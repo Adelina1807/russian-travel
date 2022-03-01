@@ -1,0 +1,31 @@
+.lead__ellipse_city_manturovo {
+  background-image: url(../../../../images/Ellipse-manturovo.png);
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_manturovo {
+    top: 76.1px;
+    left: 114.32px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_manturovo {
+    top: 182.64px;
+    left: 274.38px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_manturovo {
+    top: 220.69px;
+    left: 331.54px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_manturovo {
+    top: 234.01px;
+    left: 351.54px;
+  }
+}

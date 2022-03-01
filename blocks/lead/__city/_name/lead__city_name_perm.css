@@ -1,0 +1,31 @@
+@media screen and (min-width: 320px) {
+  .lead__city_name_perm {
+    top: 73.44px;
+    left: 178.52px;
+    width: 13.06px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__city_name_perm {
+    top: 176.25px;
+    left: 428.45px;
+    width: 31.33px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__city_name_perm {
+    top: 212.97px;
+    left: 517.72px;
+    width: 37.86px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__city_name_perm {
+    top: 225.82px;
+    left: 548.96px;
+    width: 40.14px;
+  }
+}

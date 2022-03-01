@@ -1,0 +1,30 @@
+.lead__ellipse_city_krasnoyarsk {
+  background-image: url(../../../../images/Ellipse-krasnoyarsk.png);
+}
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_krasnoyarsk {
+    top: 70.47px;
+    left: 280.31px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_krasnoyarsk {
+    top: 169.14px;
+    left: 672.75px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_krasnoyarsk {
+    top: 204.38px;
+    left: 812.91px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_krasnoyarsk {
+    top: 216.71px;
+    left: 861.96px;
+  }
+}

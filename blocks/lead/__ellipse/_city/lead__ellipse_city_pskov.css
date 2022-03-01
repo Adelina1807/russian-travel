@@ -1,0 +1,31 @@
+.lead__ellipse_city_pskov {
+  background-image: url(../../../../images/Ellipse-pskov.png);
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_pskov {
+    top: 71.45px;
+    left: 12.03px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_pskov {
+    top: 171.47px;
+    left: 28.88px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_pskov {
+    top: 207.2px;
+    left: 34.89px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_pskov {
+    top: 219.7px;
+    left: 37px;
+  }
+}

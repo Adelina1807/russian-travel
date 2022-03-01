@@ -1,0 +1,27 @@
+.lead__ellipse {
+  position: absolute;
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse {
+    width: 2.27px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse {
+    width: 5.45px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse {
+    width: 6.59px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse {
+    width: 6.99px;
+  }
+}

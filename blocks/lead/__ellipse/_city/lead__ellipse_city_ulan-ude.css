@@ -1,0 +1,30 @@
+.lead__ellipse_city_ulan-ude {
+  background-image: url(../../../../images/Ellipse-ulan-ude.png);
+}
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_ulan-ude {
+    top: 80.92px;
+    left: 300.81px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_ulan-ude {
+    top: 194.21px;
+    left: 721.95px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_ulan-ude {
+    top: 234.67px;
+    left: 872.36px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_ulan-ude {
+    top: 248.83px;
+    left: 925px;
+  }
+}

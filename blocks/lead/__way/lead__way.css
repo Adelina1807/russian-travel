@@ -1,0 +1,35 @@
+.lead__way {
+  position: absolute;
+}
+
+@media screen and (min-width: 320px) {
+  .lead__way {
+    top: 41.83px;
+    left: 13.5px;
+    width: 288.13px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__way {
+    top: 100.38px;
+    left: 32.39px;
+    width: 691.51px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__way {
+    top: 121.29px;
+    left: 39.14px;
+    width: 835.58px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__way {
+    top: 128.61px;
+    left: 41.5px;
+    width: 886px;
+  }
+}

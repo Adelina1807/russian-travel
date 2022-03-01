@@ -1,0 +1,31 @@
+.lead__ellipse_city_yaroslavl {
+  background-image: url(../../../../images/Ellipse-yaroslavl.png);
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_yaroslavl {
+    top: 95.29px;
+    left: 85.64px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_yaroslavl {
+    top: 228.71px;
+    left: 205.54px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_yaroslavl {
+    top: 276.35px;
+    left: 248.36px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_yaroslavl {
+    top: 293.03px;
+    left: 263.35px;
+  }
+}

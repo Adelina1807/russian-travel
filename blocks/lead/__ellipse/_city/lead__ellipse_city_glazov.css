@@ -1,0 +1,31 @@
+.lead__ellipse_city_glazov {
+  background-image: url(../../../../images/Ellipse-glazov.png);
+}
+
+@media screen and (min-width: 320px) {
+  .lead__ellipse_city_glazov {
+    top: 97.94px;
+    left: 172.82px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__ellipse_city_glazov {
+    top: 235.06px;
+    left: 414.77px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__ellipse_city_glazov {
+    top: 284.03px;
+    left: 501.18px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__ellipse_city_glazov {
+    top: 301.17px;
+    left: 531.43px;
+  }
+}
