@@ -2,15 +2,11 @@
   color: #fff;
   transition-property: opacity;
   transition-duration: 0.5s;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {
   opacity: 0.8;
-}
-
-.header__lang-link:last-of-type {
-  text-decoration: none;
-  margin-left: 18px;
 }
 
 @media screen and (min-width: 320px) {
